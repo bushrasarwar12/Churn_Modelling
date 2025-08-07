@@ -23,4 +23,11 @@ The main goal is to develop a machine learning model that can classify whether a
 ---
 
 ## 📁 Project Structure
+churn-modeling/
+├── app.py # Streamlit web app
+├── model.pkl # Trained ANN model
+├── requirements.txt # Required Python libraries
+├── churn_data.csv # Dataset for training
+├── churn_model.ipynb # Jupyter notebook (model building)
+└── README.md # Project documentation
 
