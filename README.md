@@ -37,29 +37,4 @@ churn-modeling/
 
 └── README.md # Project documentation
 
-📊 Dataset Overview
-File: churn_data.csv
 
-Target: Exited (1 = Churned, 0 = Stayed)
-
-Features:
-
-CreditScore
-
-Geography
-
-Gender
-
-Age
-
-Tenure
-
-Balance
-
-NumOfProducts
-
-HasCrCard
-
-IsActiveMember
-
-EstimatedSalary
